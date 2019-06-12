@@ -1,0 +1,33 @@
+/* your styles go here */
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Pacifico&display=swap');
+.headerfont{
+    font-family:  'Dancing Script', cursive;
+    /* font-family: 'Dancing Script', cursive; */
+    margin-bottom: 30px;
+}
+.img-fluid{
+    opacity: .79;
+}
+.navbar{
+    background-color: lightblue;
+}
+.lead{
+    font-style: italic; 
+    color: white;
+}
+.nav-item{
+    font-weight: bold;
+}
+h5{
+    color: tan;
+}
+.whitep{
+    color:white;
+}
+.headingskill{
+    color: lightblue;
+}
+label{
+    color:white;
+}
